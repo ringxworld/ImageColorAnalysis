@@ -43,7 +43,7 @@ The tests for this project use selenium with the chromedriver and some other tes
 
 ## Authors
 
-* **Shawn Anderson** - *Initial work* - [Wijkuy](https://github.com/Wijkuy)
+* **Shawn Anderson** - [Wijkuy](https://github.com/Wijkuy)
 
 ## Acknowledgments
 
