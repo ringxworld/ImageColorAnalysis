@@ -34,7 +34,7 @@ The tests for this project use selenium with the chromedriver and some other tes
 * [OpenCV](https://opencv.org/) - Used to deal with images as natives instead of java bufferedimages as well as built in k-means calls
 * [slf4j](https://www.slf4j.org/) - Used internally for logging
 * [lombok](https://projectlombok.org/) - Used internally for logging
-* [Speedment] (https://www.speedment.com/) - Object Relational Mapper build with Streams and speed in mind
+* [Speedment](https://www.speedment.com/) - Object Relational Mapper build with Streams and speed in mind
 * [Mysql-connector](https://dev.mysql.com/downloads/connector/j/5.1.html) - Used with Speedment to connect to MySQL db
 * [junit4](https://junit.org/junit4/) - Unit testing
 * [selenium-java](https://www.seleniumhq.org/) - Automated browser testing
