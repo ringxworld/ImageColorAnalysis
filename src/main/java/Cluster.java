@@ -63,7 +63,7 @@ public class Cluster {
 
     public Cluster() {
         ImageColorAnalysisApplication app = new ImageColorAnalysisApplicationBuilder()
-                .withPassword("Sahara1")
+                .withPassword("password")
                 .build();
        images = app.getOrThrow(ImagesManager.class);
     }
