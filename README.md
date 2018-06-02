@@ -1,5 +1,5 @@
 # ImageColorAnalysis
-Project to take a list of urls and find the 3 primary colors in each image
+Project to take a list of urls and find the 3 primary colors in each image and output the result in a url,color,color,color format
 
 ## Getting Started
 
