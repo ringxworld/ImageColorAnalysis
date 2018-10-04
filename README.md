@@ -1,5 +1,5 @@
 # ImageColorAnalysis
-Project to take a list of urls and find the 3 primary colors in each image
+Project to take a list of urls and find the 3 primary colors in each image and output the result in a url,color,color,color format
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ If you have all the prerequisites just do a pull request on this repo and copy t
 
 From there your ready to run this project
 
-
+ 
 ## Running the tests
 
 The tests for this project use selenium with the chromedriver and some other tests for testing expected outputs within the program
