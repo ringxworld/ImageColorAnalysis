@@ -22,8 +22,8 @@ If maven is having trouble loading the referenced libraries open the pom xml and
 If you have all the prerequisites just do a pull request on this repo and copy the source code into a folder
 
 From there your ready to run this project
-
  
+
 ## Running the tests
 
 The tests for this project use selenium with the chromedriver and some other tests for testing expected outputs within the program
