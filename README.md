@@ -1,3 +1,6 @@
+[![GitHub issues](https://img.shields.io/github/issues/Wijkuy/Smartedge.svg?style=flat-square)](https://github.com/Wijkuy/ImageColorAnalysis/issues)
+[![Travis](https://img.shields.io/travis/Wijkuy/Smartedge.svg?style=flat-square)](https://travis-ci.org/Wijkuy/ImageColorAnalysis/)
+
 # ImageColorAnalysis
 Project to take a list of urls and find the 3 primary colors in each image and output the result in a url,color,color,color format
 
