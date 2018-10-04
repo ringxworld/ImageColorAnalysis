@@ -39,6 +39,7 @@ The tests for this project use selenium with the chromedriver and some other tes
 * [junit4](https://junit.org/junit4/) - Unit testing
 * [selenium-java](https://www.seleniumhq.org/) - Automated browser testing
 * [cucumber-java](https://cucumber.io/) - Behavior driven testing
+* [Travis-ci](https://travis-ci.org/) - CI support to run automated tests foreach commit
 
 
 ## Authors
